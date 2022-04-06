@@ -4327,7 +4327,7 @@ img {
 .static-hero-s3 .hero-inner,
 .static-hero-s4 .hero-inner {
   /* padding-top: 120px; */
-  padding-top: 24px;
+  padding-top: 0px;
 }
 .static-hero-s3 .hero-inner .row,
 .static-hero-s4 .hero-inner .row {
